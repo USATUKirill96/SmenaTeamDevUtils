@@ -146,25 +146,22 @@
 
 
 ## KeePassXC/Bitwarden
-<img src="pictures/keepassxc.png" width="880" />
-<img src="pictures/Bitwarden.png" width="880" />
+<img src="https://sts10.github.io/img/keepassxc/entry-creation.gif" width="880" />
 
-[Github KeePassXC](https://github.com/keepassxreboot/keepassxc)
-
-[Github Bitwarden](https://github.com/bitwarden) 
+[Github-KeePassXC](https://github.com/keepassxreboot/keepassxc) [Github-Bitwarden](https://github.com/bitwarden) 
 
 Бесплатные менеджеры паролей с открытым исходным кодом.
 
 Используют:
 
--   Полное шифрование базы данных с использованием 256-битного AES.
--   Имеют нескольких форматов, включая веб-интерфейс, настольные приложения, расширение браузера.
--   Кроссплатформенность.
+- Полное шифрование базы данных с использованием 256-битного AES.
+- Имеют нескольких форматов, включая веб-интерфейс, настольные приложения, расширение браузера.
+- Кроссплатформенность.
 
 
 ## Obsidian
 
-<img src="pictures/obsidian.png" width="880" />
+<img src="https://raw.githubusercontent.com/erichalldev/obsidian-smart-random-note/master/screenshot.gif" width="880" />
 
 [Obsidian](https://obsidian.md/) 
 
