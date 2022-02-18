@@ -27,7 +27,7 @@
 
 ## Oh My Zsh <a id="ohmyzsh"></a>
 
-![Oh My Zsh](https://camo.githubusercontent.com/4db3e4069e59f51d03dd3e7fa5e89ab8fb95c9f4acda36cd5bfdf58d95269d92/68747470733a2f2f6f686d797a73682e73332e616d617a6f6e6177732e636f6d2f6f6d7a2d616e73692d6769746875622e706e67)
+<img src="https://camo.githubusercontent.com/4db3e4069e59f51d03dd3e7fa5e89ab8fb95c9f4acda36cd5bfdf58d95269d92/68747470733a2f2f6f686d797a73682e73332e616d617a6f6e6177732e636f6d2f6f6d7a2d616e73692d6769746875622e706e67" width="880" />
 
 > **Oh My Zsh will not make you a 10x developer...but you may feel like one.**
 
