@@ -10,6 +10,8 @@
 4. [Bat](#bat)
 5. [LSD](#lsd)
 6. [Tmux](#tmux)
+6. [Zoxide](#zoxide)
+6. [diff-so-fancy](#dsf)
 6. [Flameshot](#flameshot)
 6. [Guake terminal](#guake)
 6. [KeePassXC/Bitwarden](#password)
@@ -115,7 +117,6 @@
 
 Красивая кастомизируемая тема, предоставляющая кучу полезной информации в командной строке
 
-<<<<<<< HEAD
 - Отображает текущее виртуальное окружение (у тем zsh с этим проблемы обычно да)
 - Хорошо кастомизируется
 - Интерактивная настройка с примерами, как будут выглядеть элементы
@@ -198,6 +199,50 @@
 - Подключитесь к сессии коллеги посмотреть, что он на проде мутит
 - Разделите окно на несколько частей для работы в разных приложениях
 - А также кастомизация через плагины и конфиги
+
+
+
+# Zoxide<a id="zoxide"></a>
+
+![Tutorial](https://github.com/ajeetdsouza/zoxide/blob/main/contrib/tutorial.webp)
+
+~~~sh
+```sh
+z foo              # cd into highest ranked directory matching foo
+z foo bar          # cd into highest ranked directory matching foo and bar
+z foo /            # cd into a subdirectory starting with foo
+
+z ~/foo            # z also works like a regular cd command
+z foo/             # cd into relative path
+z ..               # cd one level up
+z -                # cd into previous directory
+
+zi foo             # cd with interactive selection (using fzf)
+
+z foo<SPACE><TAB>  # show interactive completions (zoxide v0.8.0+, bash/fish/zsh only)
+```
+~~~
+
+[Github](https://github.com/ajeetdsouza/zoxide)
+
+*Умная вариация `cd` запоминает самые посещаемые директории, позволяя переместиться в них короткой командой*
+
+- Переместиться в директорию проекта farfor можно командой `z farfor` или даже `z f` где бы она ни была на диске
+
+
+
+# Diff-so-fancy<a id="dsf"></a>
+
+<img src="pictures/image-diff-so-fancy.png" width="880" />
+
+
+
+[Github](https://github.com/so-fancy/diff-so-fancy)
+
+Форматирование `diff` в человеко-читаемый вид
+
+- Более понятный вывод git diff
+- За счет этого меньше вероятность допустить ошибку
 
 
 
