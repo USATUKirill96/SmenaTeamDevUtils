@@ -133,7 +133,7 @@
 
 ## Guake Terminal
 
-<img src="pictures/guake.png" width="880" />
+<img src="https://user-images.githubusercontent.com/15780903/40335223-383251d6-5d80-11e8-9d43-75ae78d59f53.gif" width="880" />
 
 [Github](https://github.com/Guake/guake) 
 
