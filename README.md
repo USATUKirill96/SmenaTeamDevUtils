@@ -47,7 +47,7 @@
 ## Плагины Oh My Zsh <a id="plugins"></a>
 ### git
 
-![image-20220218115011350](/home/aaron/code/SmenaTeamDevUtils/pictures/example)
+<img src="pictures/example" width="880" />
 
 [Github](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git)
 
@@ -56,9 +56,11 @@
 - Сокращает время работы с ветками
 - Спасает от ошибок, когда` что-то было случайно изменено/ удалено/ не добавлено в коммит
 
+
+
 ### zsh-autosuggestions
 
-![image-20220216180003383](pictures/image-20220216180003383.png)
+<img src="pictures/image-20220216180003383.png" width="880" />
 
 [Github](https://github.com/zsh-users/zsh-autosuggestions)
 
@@ -67,9 +69,11 @@
 - Супер полезная штука для длинных команд плейбуков
 - Часто избавляет от необходимости пилить алиасы
 
+
+
 ### ZSH Auto-Notify
 
-![image-20220216180505677](pictures/image-20220216180505677.png)
+<img src="pictures/image-20220216180505677.png" width="880" />
 
 [Github](https://github.com/MichaelAquilina/zsh-auto-notify)
 
@@ -77,9 +81,11 @@
 
 - Полезно для операций вроде выгрузки/накатывания миграций/ сборки докер образа, когда хочется переключиться фоном на что-нибудь еще.
 
+
+
 ### zsh-history-substring-search
 
-![image-20220216181036296](pictures/image-20220216181036296.png)
+<img src="pictures/image-20220216181036296.png" width="880" />
 
 [Github](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/history-substring-search)
 
@@ -88,9 +94,11 @@
 - Введите фрагмент нужной команды и перемещайтесь по истории через нажатие стрелок вверх-вниз
 - Какой там командой обновить конфига nginx?
 
+
+
 ### zsh-syntax-highlighting
 
-![image-20220216183007665](pictures/image-20220216183007665.png)
+<img src="pictures/image-20220216183007665.png" width="880" />
 
 [Github](https://github.com/zsh-users/zsh-syntax-highlighting)
 
@@ -98,9 +106,11 @@
 
 - Поможет отловить синтаксическую ошибку в команде еще на этапе ввода
 
+
+
 ### history
 
-![image-20220216181349717](pictures/image-20220216181349717.png)
+<img src="pictures/image-20220216181349717.png" width="880" />
 
 [Github](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/history)
 
@@ -115,7 +125,7 @@
 
 ### Powerlevel10k
 
-![Powerlevel10k](pictures/prompt-styles-high-contrast.png)
+<img src="pictures/prompt-styles-high-contrast.png" width="880" />
 
 [Github](https://github.com/romkatv/powerlevel10k)
 
