@@ -5,12 +5,15 @@
 1. [Oh My Zsh](#ohmyzsh)
    1. [Плагины](#plugins)
    2. [Темы](#themes)
-
 2. [RipGrep](#ripgrep)
 3. [FZF](#fzf)
 4. [Bat](#bat)
 5. [LSD](#lsd)
 6. [Tmux](#tmux)
+6. [Flameshot](#flameshot)
+6. [Guake terminal](#guake)
+6. [KeePassXC/Bitwarden](#password)
+6. [Obsidian](#obsidian)
 
 ## Oh My Zsh <a id="ohmyzsh"></a>
 
@@ -29,7 +32,6 @@
 - Кастомные темы для терминала
 - Огромное количество крутых плагинов для командной строки [тысячи их](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins)
 
-<<<<<<< HEAD
 - Возможность прописать кастомные алиасы, делиться конфигами с другими
 
 - Интегрируется со множеством приложений ниже
@@ -37,10 +39,6 @@
   
 
 ## Плагины Oh My Zsh <a id="plugins"></a>
-=======
-## Плагины Oh My Zsh
->>>>>>> master
-
 ### git
 
 ![image-20220218115011350](/home/aaron/code/SmenaTeamDevUtils/pictures/example)
@@ -105,13 +103,9 @@
 - `h` вывод всей истории, сокращение для `history`
 - `hs` сокращение для `history | grep`
 
-<<<<<<< HEAD
 
 
 ## Темы Oh My Zsh<a id="themes"></a>
-=======
-## Темы Oh My Zsh
->>>>>>> master
 
 ### Powerlevel10k
 
@@ -129,10 +123,7 @@
 
 
 # RipGrep<a id="ripgrep"></a>
-=======
-# RipGrep
 <img src="pictures/image-20220216183845205.png" width="880" />
->>>>>>> master
 
 <img src="pictures/image-20220216184135956.png" width="880" />
 
@@ -147,16 +138,10 @@
 - Подсветка синтаксиса при выводе
 - `rg` на две буквы короче чем `grep`
 
-<<<<<<< HEAD
-
 
 # FZF<a id="fzf"></a>
 
-![image-20220216184612173](pictures/image-20220216184612173.png)
-=======
-# FZF
-<img src="pictures/image-20220216184612173.png" width="880" />
->>>>>>> master
+# <img src="pictures/image-20220216184612173.png" width="880" />
 
 [Github](https://github.com/junegunn/fzf)
 
@@ -166,19 +151,13 @@
 - Очень быстрый
 - Интегрируется с вимом
 
-<img src="pictures/vimfzf.png" alt="image-20220218122556782" style="zoom:50%;" />
+<img src="pictures/vimfzf.png" alt="image-20220218122556782" width="800" />
 
 ​																							*Запуск из вима через хоткей*
 
-<<<<<<< HEAD
-
 
 # Bat<a id="bat"></a>
-=======
-# Bat
->>>>>>> master
-
-![](pictures/bat)
+<img src="pictures/bat" alt="image-20220218122556782" width="800" />
 
 [Github](https://github.com/sharkdp/bat)
 
@@ -192,10 +171,9 @@
 
 
 
-<<<<<<< HEAD
 # LSD<a id="lsd"></a>
 
-![image](https://raw.githubusercontent.com/Peltoche/lsd/assets/screen_lsd.png)
+<img src="https://raw.githubusercontent.com/Peltoche/lsd/assets/screen_lsd.png" alt="image-20220218122556782" width="800" />
 
 [Github](https://github.com/Peltoche/lsd)
 
@@ -210,7 +188,7 @@
 
 # Tmux<a id="tmux"></a>
 
-![image-20220218141348034](pictures/tmux.png)
+<img src="pictures/tmux.png" alt="image-20220218122556782" width="800" />
 
 [Github](https://github.com/tmux/tmux)
 
@@ -219,9 +197,12 @@
 - Запустите сессию на сервере, в сессии - долгий процесс. Подключитесь на следующий день посмотреть результат
 - Подключитесь к сессии коллеги посмотреть, что он на проде мутит
 - Разделите окно на несколько частей для работы в разных приложениях
-- А также плагины и кастомизация через конфиги
+- А также кастомизация через плагины и конфиги
+
+
+
+Flameshot<a id="flameshot"></a>
 =======
-## Flameshot
 
 <img src="https://flameshot.org/img/flameshot-demo.gif" width="880" />
 
@@ -235,7 +216,7 @@
 
 
 
-## Guake Terminal
+## Guake Terminal<a id="guake"></a>
 
 <img src="https://user-images.githubusercontent.com/15780903/40335223-383251d6-5d80-11e8-9d43-75ae78d59f53.gif" width="880" />
 
@@ -249,7 +230,9 @@
 - Настройка тем, размеров и прозрачности.
 
 
-## KeePassXC/Bitwarden
+
+
+## KeePassXC/Bitwarden<a id="password"></a>
 <img src="https://sts10.github.io/img/keepassxc/entry-creation.gif" width="880" />
 
 [Github-KeePassXC](https://github.com/keepassxreboot/keepassxc) [Github-Bitwarden](https://github.com/bitwarden) 
@@ -263,7 +246,9 @@
 - Кроссплатформенность.
 
 
-## Obsidian
+
+
+## Obsidian<a id="obsidian"></a>
 
 <img src="https://raw.githubusercontent.com/erichalldev/obsidian-smart-random-note/master/screenshot.gif" width="880" />
 
@@ -276,4 +261,3 @@
 - Использует Markdown формат файлов.
 - Есть мобильное приложение с полным функционалом десктопного.
 - Из минусов, не является Open-Sourсe приложением
->>>>>>> master
