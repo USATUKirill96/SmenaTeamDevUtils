@@ -135,7 +135,7 @@
 
 # Bat
 
-![https://camo.githubusercontent.com/c436c206f2c86605ab2f9fb632dd485afc05fccbf14af472770b0c59d876c9cc/68747470733a2f2f692e696d6775722e636f6d2f326c53573452452e706e67](/home/aaron/code/SmenaTeamDevUtils/pictures/bat)
+![](pictures/bat)
 
 [Github](https://github.com/sharkdp/bat)
 
