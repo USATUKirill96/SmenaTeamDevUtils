@@ -24,6 +24,7 @@
 6. [Black](#black)
 6. [Poetry](#poetry)
 6. [IdeaVim](#ideavim)
+6. [Key promoter X](#kpx)
 
 ## Oh My Zsh <a id="ohmyzsh"></a>
 
@@ -446,3 +447,16 @@ Flameshot<a id="flameshot"></a>
 - Обычный/вставка/визуальный режим, клавиши движения, удаление/изменение.
 - Метки, регистры, некоторые команды Ex, регулярные выражения Vim.
 - Настройка через ~/.ideavimrc, макросы, плагины Vim и т. д. 
+
+
+
+# Key promoter X<a id="kpx"></a>
+
+<img src="https://plugins.jetbrains.com/files/9792/screenshot_17105.png" width="880" />
+
+[Key promoter X](https://plugins.jetbrains.com/plugin/9792-key-promoter-x)
+
+*Надоедливое окно о том, что вы кликали мышью вместо того, чтобы применить хоткей*
+
+- Кто пользуется мышью в 2022?
+- Жаль нет такого для вима
