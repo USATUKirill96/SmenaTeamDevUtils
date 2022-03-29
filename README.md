@@ -12,6 +12,7 @@
 6. [Tmux](#tmux)
 6. [Zoxide](#zoxide)
 6. [diff-so-fancy](#dsf)
+6. [delta](#delta)
 6. [tldr](#tldr)
 6. [Midnight commander](#mc)
 6. [asdf](#asdf)
@@ -262,6 +263,20 @@ z foo<SPACE><TAB>  # show interactive completions (zoxide v0.8.0+, bash/fish/zsh
 
 - Более понятный вывод git diff
 - За счет этого меньше вероятность допустить ошибку
+
+
+
+# Delta<a id="delta"></a>
+
+<img src="pictures/image-delta.png" width="880" />
+
+[Github](https://github.com/so-fancy/diff-so-fancy)
+
+*Подсветка синтаксиса в выводе `git`, `diff` и `grep`*
+
+- Делает то же самое, что и diff-so-fancy
+- Имеет множество настроек: режим эмуляции diff-so-fancy, отображение изменений side-by-side, нумерация строк и т.д.
+- Удобная навигация между изменениями по хоткеям N и Shift+N
 
 
 
