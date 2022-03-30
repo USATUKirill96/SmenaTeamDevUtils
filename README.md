@@ -270,7 +270,7 @@ z foo<SPACE><TAB>  # show interactive completions (zoxide v0.8.0+, bash/fish/zsh
 
 <img src="pictures/image-delta.png" width="880" />
 
-[Github](https://github.com/so-fancy/diff-so-fancy)
+[Github](https://github.com/dandavison/delta)
 
 *Подсветка синтаксиса в выводе `git`, `diff` и `grep`*
 
